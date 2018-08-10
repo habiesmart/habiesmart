@@ -1,0 +1,40 @@
+.ngelink{
+  font-family: cooper black;
+  color: white;
+  font-weight: 400;
+}
+
+.berita{
+  background: gold;
+}
+
+#beritaterkini{
+  background: blue;
+  font-weight: bold;
+  color: white;
+  font-family: calibri;
+}
+
+#kepala{
+  background: white;
+}
+
+#benderamerah{
+  background: red;
+font-family: bodoni mt black;
+color: antiquewhite;
+font-size: 30px;
+}
+
+.semua{
+  background: purple;
+}
+
+#genre{
+  color: cyan;
+  font-family:consolas;
+}
+
+#temukanlagumu{
+font-family: comic sans ms;
+}
